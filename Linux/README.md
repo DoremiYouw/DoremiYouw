@@ -1,0 +1,2 @@
+# Linux
+- 记录主要包括Linux系统的使用和jetson开发板ubuntu系统的使用过程中遇到的一些问题和解决
